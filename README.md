@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Gia Gupta!
 
-## 📚 I am an undergraduate at The Wharton School at the University of Pennsylvania studying Marketing and Environmental, Social and Governance (ESG).
+## 📚 I am an undergraduate at The Wharton School at the University of Pennsylvania studying AI.
 
 ## 🌱 I am currently learning development through Penn Spark, a group of students at the University of Pennsylvania that bridge tech and design to build both creative projects and impactful products for clients and the community.
 
